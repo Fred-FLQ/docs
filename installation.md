@@ -2,6 +2,8 @@
 
 This topic will guide you for easy installation and configuration of AnsPress.
 
+![](http://localhost/wp3/wp-content/themes/site/images/anspress_install.gif)
+
 ### Installation
 ---
 
