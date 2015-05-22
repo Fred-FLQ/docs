@@ -1,3 +1,11 @@
 {
-  
+	"requirements" : {
+		"title" : "Requirements"
+	},
+	"installation" : {
+		"title" : "Installation"
+	},
+	"extensions" : {
+		"title" : "Extensions"
+	}
 }
