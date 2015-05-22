@@ -2,8 +2,7 @@
 
 List of some commonly asked questions by people when using AnsPress. Feel free to ask for support at http://anspress.io/questions/ask/ if you have any kind of issue, feature request or bug report.
 
-**Q: Getting 404 error.**
-
+#####Q: Getting 404 error
 A: Make sure base page is selected in `wp-admin->anspress->options`. Save permalink once. Make sure base page is not set to home page.
 
 **Q: How to add social login ?**
