@@ -55,3 +55,5 @@ AnsPress adds new links section in WordPress menu editor `wp-admin->appearance->
 - Users (shows members directory)
 - Categories (shows all categories of question, only available if categories extension installed)
 You can simply add this links to your theme menu. and save the menu.
+
+
