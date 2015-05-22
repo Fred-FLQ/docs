@@ -26,9 +26,9 @@ e.g.
 
 **Using FTP**
 
-1. Download `anspress_email.zip`
-2. Extract the `anspress_email` directory to your computer
-3. Upload the `anspress_email` directory to the `/wp-content/plugins/` directory
+1. Download `anspress-question-answer.zip`
+2. Extract the `anspress-question-answer` directory to your computer
+3. Upload the `anspress-question-answer` directory to the `/wp-content/plugins/` directory
 4. Activate the plugin in the Plugin dashboard
 
 ### Basic config
