@@ -10,5 +10,8 @@
 	},
 	"theme-override" : {
 		"title" : "Theme override"
+	},
+	"code-and-syntax-highlighter" : {
+		"title" : "Code and Syntax Highlighter"
 	}
 }
