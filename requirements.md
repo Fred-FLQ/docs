@@ -13,7 +13,7 @@ AnsPress is always updated to work with the latest stable version of WordPress
 Server side requirements. Generally most of hosting account have this by default:
 
 - PHP 5.3 or above.
-- Any version of Apcahe or nginx.
+- Any version of Apache or nginx.
 - Any version of MySql.
 
 ### AnsPress extensions
