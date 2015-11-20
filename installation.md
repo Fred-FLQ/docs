@@ -43,11 +43,10 @@ After activating AnsPress make sure to check must have extensions of AnsPress he
 Anspress output everything from shortcode `[anspress]`, so you must have a base page selected in AnsPress options. By default AnsPress check and create a base page while installing. if you want to create it manually follow this steps:
 
 1. Goto WordPress admin and create a new page.
-2. You must set that page title as `ANSPRESS_TITLE`, else title will not work on frontend.
-3. You can set page slug to anything you want.
-4. Now save the page.
-5. Go to `WP-admin -> AnsPress -> Options` and select base page you just created in above steps.
-6. Save the option.
+2. You can set page slug to anything you want.
+3. Now save the page.
+4. Go to `WP-admin -> AnsPress -> Options` and select base page you just created in above steps.
+5. Save the option.
 
 **Menu and links**
 
